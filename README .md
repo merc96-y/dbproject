@@ -8,7 +8,7 @@ This project involved designing and implementing a MySQL database for a bookstor
 
 * **Brian:** Scheme/Model Designer
 * **Macharia:** Developer
-* **Lissa:** Tester
+* **Mercy:** Tester
 
 ## Project Objectives
 
